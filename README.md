@@ -22,9 +22,11 @@ QB重命名工具更推荐使用[这位大佬的](https://github.com/Nriver/Epis
 X:\你的文件夹\ReName.exe "%D" 15
 ```
 ---
-在ReName.exe相同路径下创建一个prefixes.txt，可以实现替换/删除文字功能
+在ReName.exe相同路径下创建一个prefixes.txt文件，可以实现替换/删除文字功能
 
 源代码里有我[自用现成的](https://github.com/ikemenrourou/AnimeRename/blob/main/prefixes.txt)，你也可以自己创建
+
+用记事本打开prefixes.txt文件，每行一个，左边是替换前的文字，右边是替换后的
 
 书写格式举例：
 ```
